@@ -1,9 +1,6 @@
 # A_Survey_On_Graph_Representation_Learning_Methods_in-computer_vision
 # Introduction
 Computer vision is a rapidly evolving field within artificial intelligence (AI) that focuses on enabling machines to interpret and understand visual information from the world. By leveraging advances in machine learning, particularly deep learning, computer vision has achieved remarkable success in applications such as image and video recognition, object detection, and scene understanding. Traditional methods in computer vision primarily rely on convolutional neural networks (CNNs) to process pixel grid data. However, these methods often struggle to capture the complex relationships and structures present in many real-world scenarios. To address the limitations of grid-based approaches, graph representation learning (GRL) has emerged as a powerful paradigm. GRL models data as graphs, where entities are represented as nodes and relationships between them as edges. This graph-based representation allows for a more natural and expressive way to capture structured data. Graph Neural Networks (GNNs), the core technique in GRL, have shown great promise in learning meaningful representations from graph-structured data. By capturing both local and global dependencies, GNNs are capable of effectively handling a wide range of computer vision tasks, such as scene graph generation, 3D object recognition, and activity recognition.The objective of this survey is to provide a comprehensive review of the current state-of-the-art graph representation learning methods in computer vision. We aim to cover the fundamental concepts, various techniques, and their applications across different computer vision tasks. Additionally, this survey will discuss benchmark datasets and evaluation metrics commonly used in the field, highlight existing challenges, and explore potential future research directions. By synthesizing existing literature and providing critical insights, we intend to offer a valuable resource for researchers and practitioners interested in the intersection of graph representation learning and computer vision.
-
-# Fundamental Concepts
-# Graph Representation Learning Techniques
 # Applications in Computer Vision
 # Scene Graphs
 Scene graphs are a structured representation of visual scenes, where objects within an image are represented as nodes and their relationships as edges. This graphical representation captures not only the objects present in the scene but also the contextual relationships between them, such as "a person riding a bicycle" or "a objects on the table [1]." Scene graphs provide a more comprehensive understanding of the scene compared to traditional object detection methods, which typically only identify and localize objects without considering their interrelationships.
@@ -16,9 +13,6 @@ Additionally, scene graphs enhance various computer vision tasks by providing ri
 In this section, we will delve into the various applications of 3D vision in computer vision, exploring its role in scene understanding, object recognition, tracking, and more. Additionally, we will examine how 3D vision techniques intersect with graph representation learning methodologies, highlighting synergies and potential avenues for future research. Through a comprehensive review of existing literature and emerging trends, this section aims to provide valuable insights into the integration of 3D vision with graph-based approaches in computer vision.
 # Integration of Graph Neural Networks (GNNs) in 3D Vision
 In recent years, the fusion of graph neural networks (GNNs) with 3D vision has emerged as a promising approach to tackle the challenges of understanding and analyzing three-dimensional scenes. GNNs, renowned for their ability to capture complex relationships and dependencies in graph-structured data, offer a versatile framework for processing and reasoning over 3D geometric information.
-
-
-
 # Activity recognition
 # Medical Imaging
 
