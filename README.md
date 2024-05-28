@@ -8,8 +8,17 @@ Computer vision is a rapidly evolving field within artificial intelligence (AI) 
 # Scene Graphs
 Scene graphs are a structured representation of visual scenes, where objects within an image are represented as nodes and their relationships as edges. This graphical representation captures not only the objects present in the scene but also the contextual relationships between them, such as "a person riding a bicycle" or "a objects on the table [1]." Scene graphs provide a more comprehensive understanding of the scene compared to traditional object detection methods, which typically only identify and localize objects without considering their interrelationships.
 The importance of scene graphs in computer vision lies in their ability to facilitate higher-level reasoning about visual content. By explicitly modeling the relationships between objects, scene graphs[2] enable more accurate image understanding and interpretation. They are particularly useful in complex scenarios where the context and interaction between objects play a crucial role, such as in autonomous driving[3], where understanding the relationships between vehicles, pedestrians, and traffic signals is essential for safe navigation.
+![image](https://github.com/wissal9999999999999/Graph_Representation_Learning_Methods_in-computer_vision/assets/98689079/c4da6add-3cb9-4671-ae08-3c527b219f12) 
+                                         By Bing Image Creator
+
 Additionally, scene graphs enhance various computer vision tasks by providing richer and more structured information. In object detection, for instance, incorporating relational information from scene graphs can improve detection accuracy and robustness. In image retrieval and captioning, scene graphs help generate more relevant and contextually appropriate results by considering the relationships between objects. Overall, scene graphs represent a significant advancement in the field of computer vision, offering a powerful tool for detailed and nuanced scene analysis.
 # 3D Vision 
+In this section, we will delve into the various applications of 3D vision in computer vision, exploring its role in scene understanding, object recognition, tracking, and more. Additionally, we will examine how 3D vision techniques intersect with graph representation learning methodologies, highlighting synergies and potential avenues for future research. Through a comprehensive review of existing literature and emerging trends, this section aims to provide valuable insights into the integration of 3D vision with graph-based approaches in computer vision.
+# Integration of Graph Neural Networks (GNNs) in 3D Vision
+In recent years, the fusion of graph neural networks (GNNs) with 3D vision has emerged as a promising approach to tackle the challenges of understanding and analyzing three-dimensional scenes. GNNs, renowned for their ability to capture complex relationships and dependencies in graph-structured data, offer a versatile framework for processing and reasoning over 3D geometric information.
+
+
+
 # Activity recognition
 # Medical Imaging
 
