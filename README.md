@@ -19,13 +19,10 @@ In recent years, the fusion of graph neural networks (GNNs) with 3D vision has e
 # Medical Imaging
 In medical imaging, GNNs play a crucial role in addressing the unique challenges associated with analyzing multi-dimensional and heterogeneous data. By treating medical images as graphs, where pixels or image patches are nodes and their relationships are edges, GNNs can learn rich representations that capture both local and global features. This enables tasks such as image segmentation, lesion detection, disease classification, and anatomical landmark localization with higher accuracy and efficiency.
 Applications of GNNs in Medical Image Analysis
-# Image Segmentation:
-GNNs can segment anatomical structures or pathological regions from medical images, aiding in diagnosis and treatment planning.
-# Lesion Detection and Classification:
+ Image Segmentation:GNNs can segment anatomical structures or pathological regions from medical images, aiding in diagnosis and treatment planning.
+ Lesion Detection and Classification:
 GNNs facilitate the detection and characterization of lesions or abnormalities in medical images, assisting radiologists in early disease detection and monitoring.
-# Disease Diagnosis:
-GNNs can classify medical images into different disease categories based on learned features, providing valuable insights for clinical decision support.
-# Anatomical Landmark Localization: 
-GNNs enable accurate localization of anatomical landmarks in medical images, facilitating surgical planning and image-guided interventions.
+ Disease Diagnosis:GNNs can classify medical images into different disease categories based on learned features, providing valuable insights for clinical decision support.
+ Anatomical Landmark Localization: GNNs enable accurate localization of anatomical landmarks in medical images, facilitating surgical planning and image-guided interventions.
 
 
